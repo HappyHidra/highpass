@@ -1,0 +1,32 @@
+//  Container
+$containerMaxWidth: 1290px;
+$gridGutter: 23px;
+
+// Common
+$background-color_primary: #202020;
+$background-color_secondary: #ffffff;
+
+// Text colors
+$colorText: #333;
+$colorTextLight: #444;
+
+// Button colors | icon colors
+$color-btn_primary: #ff6e30;
+$color-btn_primary-hover: #bc572b;
+$color-btn_primary-focus: #ff6e30;
+$color-btn_primary-focus-border: 3px solid #ce4307;
+$color-btn_primary-active: #ce4307;
+
+$color-btn_secondary: none;
+$color-btn_secondary-border: 3px solid #ff6e30;
+$color-btn_secondary-hover: #ff6e30;
+$color-btn_secondary-focus: #bc572b;
+$color-btn_secondary-focus-border: 3px solid #ff6e30;
+$color-btn_secondary-active: #ce4307;
+
+// Menu colors
+$color-menu-btn: #ffffff;
+$color-menu-btn-hover: #ff6e30;
+$color-menu-btn-focus: #ffffff;
+$color-menu-btn-focus-bgc: #bc572b;
+$color-menu-btn-active: #ce4307;

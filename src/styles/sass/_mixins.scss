@@ -1,0 +1,10 @@
+@mixin clearListStyles {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@mixin clearLinkStyles {
+  text-decoration: none;
+}
+
